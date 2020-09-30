@@ -1,0 +1,14 @@
+<carrinho>
+  <produto codigo="1">
+    <descricao>Sabonete</descricao>
+    <valor>2.30</valor>
+  </produto>
+  <produto codigo="2">
+    <descricao>Shampoo</descricao>
+    <valor>12.90</valor>
+  </produto>
+  <produto codigo="3">
+    <descricao>Pacoca</descricao>
+    <valor>3.50</valor>
+  </produto>
+</carrinho>
